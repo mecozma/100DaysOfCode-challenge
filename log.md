@@ -10,3 +10,6 @@
 
 # Day 3
 * Solved q10, q11, q12, q13
+
+# Day 4
+* Solved q14, q15
