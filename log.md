@@ -6,10 +6,17 @@
 	* Recap liniar search, binary search and naive string search;
 # Day 2
 * Solved six challenges:
-	* q4, q5, q6, q7, q8, q9
+	* q4, q5, q6, q7, q8, q9;
 
 # Day 3
-* Solved q10, q11, q12, q13
+* Solved q10, q11, q12, q13;
 
 # Day 4
-* Solved q14, q15
+* Solved q14, q15;
+
+# Day 5
+* Solved q16, q17;
+	* Tree traversal;
+* Javascript Algorithms and Data Structures Masterclass - Colt Steele:
+		* Breath First Search;
+		* Depth First PreOrder;
