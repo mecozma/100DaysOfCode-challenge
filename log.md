@@ -16,7 +16,14 @@
 
 # Day 5
 * Solved q16, q17;
-	* Tree traversal;
 * Javascript Algorithms and Data Structures Masterclass - Colt Steele:
+	* Tree traversal:
 		* Breath First Search;
 		* Depth First PreOrder;
+
+# Day6:
+* Solved q18, q19;
+* Javascript Algorithms and Data Structures Masterclass - Colt Steele:
+	* Tree traversal:
+		* Depth First PostOrder;
+		* Depth First InOrder;
