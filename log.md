@@ -27,3 +27,6 @@
 	* Tree traversal:
 		* Depth First PostOrder;
 		* Depth First InOrder;
+
+# Day7:
+* Solved q20, q21;
