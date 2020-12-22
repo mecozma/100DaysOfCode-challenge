@@ -21,12 +21,15 @@
 		* Breath First Search;
 		* Depth First PreOrder;
 
-# Day6:
+# Day 6:
 * Solved q18, q19;
 * Javascript Algorithms and Data Structures Masterclass - Colt Steele:
 	* Tree traversal:
 		* Depth First PostOrder;
 		* Depth First InOrder;
 
-# Day7:
+# Day 7:
 * Solved q20, q21;
+
+# Day 8:
+* Solved q22, q23, q24, q25;
