@@ -33,3 +33,6 @@
 
 # Day 8:
 * Solved q22, q23, q24, q25;
+
+# Day9:
+* Solved q26, q27, q28, q29, q30;
