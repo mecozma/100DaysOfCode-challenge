@@ -34,5 +34,12 @@
 # Day 8:
 * Solved q22, q23, q24, q25;
 
-# Day9:
+# Day 9:
 * Solved q26, q27, q28, q29, q30;
+
+# Day 10:
+* Solved q31, q32, q33, q34, q35, q36, q37;
+	* Got to experiment with:
+		* Lambda functions;
+		* map() function;
+		* filter() function;
