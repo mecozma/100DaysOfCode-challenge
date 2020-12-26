@@ -43,3 +43,9 @@
 		* Lambda functions;
 		* map() function;
 		* filter() function;
+
+# Day 11:
+* Solved q38, q39, q40, q41, q42, q43;
+* Completed 24/28 videos in Section 19. Complete Python Developer in 2021: Zero to Mastery;
+* Constants and IOTA Go Bootcamp: Master Golang with 1000 + Exercises and Projects;
+
