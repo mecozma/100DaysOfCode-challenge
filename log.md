@@ -49,3 +49,13 @@
 * Completed 24/28 videos in Section 19. Complete Python Developer in 2021: Zero to Mastery;
 * Constants and IOTA Go Bootcamp: Master Golang with 1000 + Exercises and Projects;
 
+# Day 12:
+* Solved q44, q45, q46;
+* Read the following articles:
+	* https://realpython.com/instance-class-and-static-methods-demystified/
+	* https://www.programiz.com/python-programming/inheritance
+	* https://www.programiz.com/python-programming/multiple-inheritance
+	* https://www.programiz.com/python-programming/operator-overloading
+	* https://jakevdp.github.io/WhirlwindTourOfPython/09-errors-and-exceptions.html
+* Completed 24/28 videos in Section 19. Complete Python Developer in 2021: Zero to Mastery;
+
