@@ -59,3 +59,6 @@
 	* https://jakevdp.github.io/WhirlwindTourOfPython/09-errors-and-exceptions.html
 * Completed 24/28 videos in Section 19. Complete Python Developer in 2021: Zero to Mastery;
 
+# Day 13:
+* Solved q47, q48, q49, q50;
+
