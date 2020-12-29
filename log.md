@@ -62,3 +62,14 @@
 # Day 13:
 * Solved q47, q48, q49, q50;
 
+# Day 14:
+* Solved: q51, q52, q53;
+* Read the following articles:
+	* https://www.programiz.com/python-programming/file-operation;
+	* https://www.programiz.com/python-programming/directory;
+	* https://www.programiz.com/python-programming/exceptions;
+	* https://www.programiz.com/python-programming/exception-handling;
+	* https://www.programiz.com/python-programming/user-defined-exception;
+* Master Golang with 1000 + Exercises and Projects:
+	* Completed the Constants exercises;
+	* 3/63 Control Flow and Error Handling;
