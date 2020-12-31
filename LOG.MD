@@ -78,3 +78,6 @@
 * Solved: q54, q55, q56, q57, q58, q59;
 * Master Golang with 1000 + Exercises and Projects:
 	* 16/63 Control Flow and Error Handling;
+
+# Day 16:
+* Solved: q60, q61, q62, q63, q64;
