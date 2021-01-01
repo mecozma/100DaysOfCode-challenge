@@ -81,3 +81,8 @@
 
 # Day 16:
 * Solved: q60, q61, q62, q63, q64;
+
+# Day 17:
+* Solved: q65, q66, q67, q68, q69;
+* Read the following article:
+	* https://realpython.com/python-eval-function/;
