@@ -72,7 +72,7 @@
 	* https://www.programiz.com/python-programming/user-defined-exception;
 * Master Golang with 1000 + Exercises and Projects:
 	* Completed the Constants exercises;
-	* 3/63 Control Flow and Error Handling;
+	* 3/62 Control Flow and Error Handling;
 
 # Day 15:
 * Solved: q54, q55, q56, q57, q58, q59;
@@ -86,3 +86,10 @@
 * Solved: q65, q66, q67, q68, q69;
 * Read the following article:
 	* https://realpython.com/python-eval-function/;
+
+# Day 18:
+* Solved: q70, q71, q72, q73, q74;
+* Read the following article:
+	* https://pynative.com/python-random-shuffle/;
+* Master Golang with 1000 + Exercises and Projects:
+	* 35/62 Control Flow and Error Handling;
