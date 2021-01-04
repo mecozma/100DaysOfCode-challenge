@@ -93,3 +93,6 @@
 	* https://pynative.com/python-random-shuffle/;
 * Master Golang with 1000 + Exercises and Projects:
 	* 35/62 Control Flow and Error Handling;
+
+# Day 19:
+* Solved: q75, q76, q77, q78, q79;
