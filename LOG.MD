@@ -99,3 +99,6 @@
 
 # Day20:
 * Solved: q80, q81, q82, q83, q84;
+
+# Day 20:
+* Solved: q85, q86, q87, q88, q89;
