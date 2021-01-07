@@ -100,5 +100,10 @@
 # Day20:
 * Solved: q80, q81, q82, q83, q84;
 
-# Day 20:
+# Day 21:
 * Solved: q85, q86, q87, q88, q89;
+
+# Day 22:
+* Solved: q90, q91, q92, q93, q94;
+* JavaScript Algorithms and Data Structures Masterclass:
+	* 7/11 Binary Heaps;
