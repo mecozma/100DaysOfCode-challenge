@@ -107,3 +107,7 @@
 * Solved: q90, q91, q92, q93, q94;
 * JavaScript Algorithms and Data Structures Masterclass:
 	* 7/11 Binary Heaps;
+
+# Day 23:
+* Solved q95, q96, q98, q99;
+* Need to come back and solve q97;
