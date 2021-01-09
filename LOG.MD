@@ -109,5 +109,8 @@
 	* 7/11 Binary Heaps;
 
 # Day 23:
-* Solved q95, q96, q98, q99;
+* Solved: q95, q96, q98, q99;
 * Need to come back and solve q97;
+
+# Day 24:
+* Solved: q100, q101, q102, q103;
