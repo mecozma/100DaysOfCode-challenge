@@ -114,3 +114,11 @@
 
 # Day 24:
 * Solved: q100, q101, q102, q103;
+
+# Day 25:
+* Started a new set of challenges:
+	* Solved is_unique challenge;
+* Javascript Algorithms and Data Structures Masterclass - Colt Steele:
+	* Binary Heaps:
+		* Priority Queues;
+	* Hash Tables;
