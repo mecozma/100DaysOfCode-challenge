@@ -122,3 +122,9 @@
 	* Binary Heaps:
 		* Priority Queues;
 	* Hash Tables;
+
+# Day26:
+* CTCI:
+	* Check permutations;
+	* URLfy a string;
+	* Palindrome permutations;
