@@ -128,3 +128,7 @@
 	* Check permutations;
 	* URLfy a string;
 	* Palindrome permutations;
+
+# Day 27:
+* CTCI:
+	* String compression;
