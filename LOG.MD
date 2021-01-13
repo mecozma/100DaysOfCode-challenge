@@ -132,3 +132,9 @@
 # Day 27:
 * CTCI:
 	* String compression;
+
+# Day 28:
+* CTCI:
+	*One way;
+* ocult-corner:
+	* Join intervals;
