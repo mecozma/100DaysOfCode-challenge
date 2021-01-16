@@ -138,3 +138,9 @@
 	*One way;
 * ocult-corner:
 	* Join intervals;
+
+ 
+# Day 29:
+* gobook:
+	* 1.2 Command-Line Arguments;
+
