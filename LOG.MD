@@ -132,3 +132,7 @@
 # Day 27:
 * CTCI:
 	* String compression;
+
+# Day 28:
+* Javascript Algorithms and Data Structures Masterclass:
+	* Graphs;
