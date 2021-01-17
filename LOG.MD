@@ -134,5 +134,16 @@
 	* String compression;
 
 # Day 28:
+* CTCI:
+	*One way;
+* ocult-corner:
+	* Join intervals;
+
+ 
+# Day 29:
+* gobook:
+	* 1.2 Command-Line Arguments;
+
+# Day 30:
 * Javascript Algorithms and Data Structures Masterclass:
 	* Graphs;
