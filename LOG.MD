@@ -144,6 +144,10 @@
 * gobook:
 	* 1.2 Command-Line Arguments;
 
+# Day 30:
+* Javascript Algorithms and Data Structures Masterclass:
+	* Graphs;
+
 # Day 31:
 * gobook:
 	* 1.3 Finding Duplicate lines;
