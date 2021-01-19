@@ -144,3 +144,6 @@
 * gobook:
 	* 1.2 Command-Line Arguments;
 
+# Day 31:
+* gobook:
+	* 1.3 Finding Duplicate lines;
