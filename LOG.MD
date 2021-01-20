@@ -151,3 +151,9 @@
 # Day 31:
 * gobook:
 	* 1.3 Finding Duplicate lines;
+
+# Day 32:
+* CRCI:
+	* Zero matrix;
+	* String rotation;
+
