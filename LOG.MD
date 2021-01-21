@@ -157,3 +157,6 @@
 	* Zero matrix;
 	* String rotation;
 
+# Day 33:
+* gobok:
+	* 1.4 Lissajous figures;

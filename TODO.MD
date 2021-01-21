@@ -5,3 +5,5 @@
 # gobook
 * 1.3 Command-Line Arguments
 - [ ] Do the exercise 1.3;
+* 1.4 Animated GIFs
+- [ ] Do the exercises;
