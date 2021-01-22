@@ -141,7 +141,7 @@
 
  
 # Day 29:
-* gobook:
+* GOPL:
 	* 1.2 Command-Line Arguments;
 
 # Day 30:
@@ -149,7 +149,7 @@
 	* Graphs;
 
 # Day 31:
-* gobook:
+* GOPL:
 	* 1.3 Finding Duplicate lines;
 
 # Day 32:
@@ -158,5 +158,12 @@
 	* String rotation;
 
 # Day 33:
-* gobok:
+* GOPL:
 	* 1.4 Lissajous figures;
+
+# Day 34:
+* CRCI:
+	* Singly linked lists:
+		* Remove duplicates;
+* weekly-challenge:
+	* Simple grep function in Python;
