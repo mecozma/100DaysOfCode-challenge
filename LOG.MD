@@ -167,3 +167,9 @@
 		* Remove duplicates;
 * weekly-challenge:
 	* Simple grep function in Python;
+
+# Day 35:
+* CRCI:
+	* Singly linked lists:
+		* Return Kth to last;
+		* Delete middle node;
