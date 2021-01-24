@@ -59,6 +59,7 @@ class SLinkedList:
         for i in range(self.length):
             if i == middle:
                 previous.next = current.next
+                self.length -= 1
                 break
             else:
                 previous = current
