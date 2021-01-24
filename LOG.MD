@@ -173,3 +173,11 @@
 	* Singly linked lists:
 		* Return Kth to last;
 		* Delete middle node;
+
+# Day 36:
+* Javascript Algorithms and Data Structures Masterclass - Colt Steele:
+	* Graph traversal:
+		* Depth First Graph Traversal:
+			* Recursive;
+			* Iterative;
+		* Breadth First Graph Traversal;
