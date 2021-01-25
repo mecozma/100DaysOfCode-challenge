@@ -181,3 +181,9 @@
 			* Recursive;
 			* Iterative;
 		* Breadth First Graph Traversal;
+
+# Day 37:
+* weekly-challenge:
+	* Simple grep function in Golang;
+* Javascript Algorithms and Data Structures Masterclass - Colt Steele:
+	* Dijkstra's Algorithm;
