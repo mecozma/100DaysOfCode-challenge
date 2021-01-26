@@ -187,3 +187,9 @@
 	* Simple grep function in Golang;
 * Javascript Algorithms and Data Structures Masterclass - Colt Steele:
 	* Dijkstra's Algorithm;
+
+# Day 38:
+* Angular- The Complete Guide:
+	* Section one: Getting Started;
+	* Section 2: The Basics 10/33:
+		* Assignment 1: Practicing Components;
