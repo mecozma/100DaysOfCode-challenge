@@ -189,7 +189,12 @@
 	* Dijkstra's Algorithm;
 
 # Day 38:
-* Angular- The Complete Guide:
+* Angular - The Complete Guide:
 	* Section one: Getting Started;
 	* Section 2: The Basics 10/33:
 		* Assignment 1: Practicing Components;
+
+# Day 39:
+* Angular - The Complete Guide:
+	* Section 15: Handling Forms in Angular Apps 17/37;
+
