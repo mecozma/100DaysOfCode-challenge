@@ -198,3 +198,8 @@
 * Angular - The Complete Guide:
 	* Section 15: Handling Forms in Angular Apps 17/37;
 
+# Day 40:
+* Angular - The Complete Guide:
+	* Section 2: The Basics 22/33:
+		* Assignment 2: Practicing Databinding;
+
