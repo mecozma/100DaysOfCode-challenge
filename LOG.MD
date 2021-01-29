@@ -203,3 +203,11 @@
 	* Section 2: The Basics 22/33:
 		* Assignment 2: Practicing Databinding;
 
+# Day 41:
+* weekly-challenge:
+	* csvstat python implementation:
+		* simple program that takes a csv file and the nr of the
+			column as terminal arguments and prints the min,
+			 max, total and avg values.
+* Read:
+	* [Defining Main Functions in Python](https://realpython.com/python-main-function/)
