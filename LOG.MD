@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+G 100 Days Of Code - Log
 
 # Day 1
 * Today's progress:
@@ -211,3 +211,6 @@
 			 max, total and avg values.
 * Read:
 	* [Defining Main Functions in Python](https://realpython.com/python-main-function/)
+* Angular - The Complete Guide:
+	* Section 2: The Basics 33/33:
+		* Assignment 3: Practicing Directives;
