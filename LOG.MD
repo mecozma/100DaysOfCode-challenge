@@ -213,4 +213,14 @@ G 100 Days Of Code - Log
 	* [Defining Main Functions in Python](https://realpython.com/python-main-function/)
 * Angular - The Complete Guide:
 	* Section 2: The Basics 33/33:
+
+# Day 42:
+* Javascript Algorithms and Data Structures Masterclass - Colt Steele:
+	* Dynamic programming
+	* The Wild West: 2/52
+		* Sll:
+			* push Exercise;
+			* pop Exercise;
 		* Assignment 3: Practicing Directives;
+ * Angular - The Complete Guide:
+	* Section 3: Course Project - The Basics 4/17;
