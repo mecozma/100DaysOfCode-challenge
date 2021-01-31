@@ -63,4 +63,19 @@ class SinglyLinkedList {
         // return the popped node.
         return current;
     }
+
+    // Get method declaration.
+    get(index) {
+        // Check if the index is bigger than 0 but less than the list's length.
+        if (index > 0 || index >= this.length) return undefined;
+        // Declare and initiate a head pointer.
+        let unknown = this.node;
+        // Iterate over the list and stop at the given index.
+        for (let i = 0; i < index; i++) {
+            // On each iteration point the pointer to the next node.
+            unknown = unknown.next;
+        }
+        // Return the last visited node.
+        return unknown;
+    }
 }
