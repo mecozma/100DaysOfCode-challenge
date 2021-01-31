@@ -1,4 +1,4 @@
-G 100 Days Of Code - Log
+100 Days Of Code - Log
 
 # Day 1
 * Today's progress:
@@ -224,3 +224,10 @@ G 100 Days Of Code - Log
 		* Assignment 3: Practicing Directives;
  * Angular - The Complete Guide:
 	* Section 3: Course Project - The Basics 4/17;
+
+# Day 43:
+* JavaScript Algorithms and Data Structures MasterClass - Colt Steele:
+	* The Wild West:
+		* SLL:
+			* get Exercise;
+			* insert exercise;
