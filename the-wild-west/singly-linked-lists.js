@@ -64,7 +64,7 @@ class SinglyLinkedList {
         return current;
     }
 
-    // Get method declaration.
+    // Get method declaration. Returns the node at a given index or undefined.
     get(index) {
         // Check if the index is bigger than 0 but less than the list's length.
         if (index > 0 || index >= this.length) return undefined;
@@ -77,5 +77,26 @@ class SinglyLinkedList {
         }
         // Return the last visited node.
         return unknown;
+    }
+    // Insert method declaration. It inserts a node at a given index.
+    insert(index, value) {
+        // If the index is smaller than 0 or bigger than the length of the list return false;
+        if (index < 0 || index > this.length) return false;
+        // If the index is the same as the list's length, push the node at the end of the list and return true.
+        if (index === this.length) !!this.push(value);
+        // Declare and instantiate a node with the passed value.
+        let node = new Node(value);
+        // Declare and instantiate a head pointer.
+        let current = this.head;
+        // Declarare a pointer th the index before the passed index.
+        let previousNode = this.get(index - 1);
+        // Declare and instantiate a variable to point to the next node of the previous node.
+        let temp = previousNode.next;
+        //  Insert the node in place.
+        previousNode.next = node;
+        node.next = temp;
+        // Increment the list's length.
+        this.length++;
+        return true;
     }
 }
