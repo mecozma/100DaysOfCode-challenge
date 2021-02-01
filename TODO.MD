@@ -14,3 +14,7 @@
 	* Return the output as soon as it is iterated;
 * [ ] week02:
 	* Implement the challenge in AWK and bash script.
+
+# Angular Recipes App:
+* [ ] Implement a hamburger menu. Lecture 50.
+* [ ] Add some spacing between the buttons on the shopping-edit.component.html;

@@ -231,3 +231,7 @@
 		* SLL:
 			* get Exercise;
 			* insert exercise;
+
+# Day 44:
+* Angular - The Complete Guide:
+	* Section 3: Course Project - The Basics 17/17;
