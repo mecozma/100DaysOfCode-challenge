@@ -235,3 +235,8 @@
 # Day 44:
 * Angular - The Complete Guide:
 	* Section 3: Course Project - The Basics 17/17;
+
+# Day 45:
+* Angular - The complete Guide:
+	* Section 4: Debuging 3/3;
+	* Section 5: Components and Databinding Deep Dive 1/22;
