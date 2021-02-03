@@ -240,3 +240,7 @@
 * Angular - The complete Guide:
 	* Section 4: Debuging 3/3;
 	* Section 5: Components and Databinding Deep Dive 1/22;
+
+# Day 46:
+* Angular - The complete Guide:
+	* Section 5: Components and Databinding Deep Dive 5/22;
