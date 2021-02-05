@@ -244,3 +244,7 @@
 # Day 46:
 * Angular - The complete Guide:
 	* Section 5: Components and Databinding Deep Dive 5/22;
+
+# Day 47:
+* Linux shell Scripting: A project-based aproach to learning:
+	* Section 1 & 2;
