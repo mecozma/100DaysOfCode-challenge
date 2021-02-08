@@ -252,3 +252,7 @@
 # Day 48:
 * Linux Shell Scripting: A project-based approach to learning:
 	* Section 3: User and Account Creation;
+
+# Day 49:
+* Linux Shell Scripting: A project-based approach to learning:
+	* Section 4: Password Generation and Shell Script: 1/5;
