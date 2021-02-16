@@ -255,4 +255,8 @@
 
 # Day 49:
 * Linux Shell Scripting: A project-based approach to learning:
-	* Section 4: Password Generation and Shell Script: 1/5;
+	* Section 4: Password Generation and Shell Script Arguments: 1/5;
+
+# Day 50:
+* Linux Shell Scripting: A project-based approach to learning:
+	* Section 4: Password Generation and Shell Script Arguments: 2/5;
