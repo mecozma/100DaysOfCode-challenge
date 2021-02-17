@@ -260,3 +260,10 @@
 # Day 50:
 * Linux Shell Scripting: A project-based approach to learning:
 	* Section 4: Password Generation and Shell Script Arguments: 2/5;
+
+# Day 51:
+* Linux Shell Scripting: A project-based approach to learning:
+	* Section 4: A project-based approach to learning:
+		* While and infinite loop;
+		* Shifting;
+		* Sleeping;
