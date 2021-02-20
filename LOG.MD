@@ -271,3 +271,8 @@
 # Day 52:
 * Linux Shell Scriptin: A project-based approach to learning:
 	* Section 4: Password Generation and Shell Scripting Arguments: 5/5;
+
+# Day 53:
+* Regular expressions:
+	* https://regexone.com/;
+	* https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions;
