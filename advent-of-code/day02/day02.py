@@ -44,11 +44,11 @@ def find_match(input):
     high = int(capturing_groups[1])
     char = capturing_groups[2]
     password = capturing_groups[3]
-    count_chars = 0
-    for i in password:
-        if i == char:
-            count_chars += 1
-    if low <= count_chars <= high:
+    if password[low - 1] == char and password[high - 1] == char:
+        return False
+    elif password[low - 1] == char:
+        return True
+    elif password[high - 1] == char:
         return True
     else:
         return False
