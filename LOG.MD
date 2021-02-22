@@ -283,3 +283,10 @@
 		* Stopped here: https://realpython.com/regex-python/#backreferences;
 * Linux Shell Scripting: A project-based approach to learning:
 	* Section 5: Linux Programming Conventions: 2/4;
+
+# Day 55:
+* Regular expressions:
+	* [Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python/);
+	* [Regular Expressions: Regexes in Python (Part 2)](https://realpython.com/regex-python-part-2/);
+* Linux Shell Scripting: A project-based approach to learning:
+	* Section 5: Linux Programming Conventions: 4/4;
