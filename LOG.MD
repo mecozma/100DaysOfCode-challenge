@@ -290,3 +290,10 @@
 	* [Regular Expressions: Regexes in Python (Part 2)](https://realpython.com/regex-python-part-2/);
 * Linux Shell Scripting: A project-based approach to learning:
 	* Section 5: Linux Programming Conventions: 4/4;
+
+# Day 56:
+* Implemented a simple csvstat in shell script;
+* Made some changes in athe scvstat.py challenge as per code review;
+
+# Day 57:
+* Worked on https://adventofcode.com/2020/day/1 -Part Two;
