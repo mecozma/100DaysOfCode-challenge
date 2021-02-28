@@ -293,7 +293,13 @@
 
 # Day 56:
 * Implemented a simple csvstat in shell script;
-* Made some changes in athe scvstat.py challenge as per code review;
+* Made some changes in on he scvstat.py challenge as per code review;
 
 # Day 57:
 * Worked on https://adventofcode.com/2020/day/1 -Part Two;
+
+# Day 58:
+* Watched [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk&ab_channel=freeCodeCamp.org):
+	* Including Memoization recipe;
+* Linux Shell Scripting: A project-based aproach to learning:
+	* Section 6: Parsing Command Line options 2/10;
