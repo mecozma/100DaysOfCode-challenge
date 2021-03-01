@@ -303,3 +303,9 @@
 	* Including Memoization recipe;
 * Linux Shell Scripting: A project-based aproach to learning:
 	* Section 6: Parsing Command Line options 2/10;
+
+# Day 59:
+* [The Linux Commands Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/#the-linux-open-command):
+	* Read 17 chapters. Stopped at 'less' command;
+* Linux Shell Scripting: A project-based approach to learning:
+	* Section 6: Parsing Command Line options 3/10;
