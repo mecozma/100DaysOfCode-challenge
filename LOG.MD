@@ -309,3 +309,9 @@
 	* Read 17 chapters. Stopped at 'less' command;
 * Linux Shell Scripting: A project-based approach to learning:
 	* Section 6: Parsing Command Line options 3/10;
+
+# Day 60:
+* [Linux Administration Bootcamp: Go from Beginner to Advanced](https://www.udemy.com/course/linux-administration-bootcamp):
+	* Section 1 and 2;
+	* Section 3: Linux fundamentals 9/14;
+* Angular - I learned how to get data from protobufs and display it in a template.
