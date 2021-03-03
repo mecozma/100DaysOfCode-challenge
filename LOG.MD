@@ -320,3 +320,6 @@
 * [Linux Administration Bootcamp: Go from Beginner to Advanced](https://www.udemy.com/course/linux-administration-bootcamp):
 	* Section 3 and 4;
 
+# Day 62:
+* [Linux Administration Bootcamp: Go from Beginner to Advanced](https://www.udemy.com/course/linux-administration-bootcamp):
+	* Section 5, 6 and 7 2/8;
