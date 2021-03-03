@@ -315,3 +315,8 @@
 	* Section 1 and 2;
 	* Section 3: Linux fundamentals 9/14;
 * Angular - I learned how to get data from protobufs and display it in a template.
+
+# Day 61:
+* [Linux Administration Bootcamp: Go from Beginner to Advanced](https://www.udemy.com/course/linux-administration-bootcamp):
+	* Section 3 and 4;
+
