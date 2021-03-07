@@ -323,3 +323,9 @@
 # Day 62:
 * [Linux Administration Bootcamp: Go from Beginner to Advanced](https://www.udemy.com/course/linux-administration-bootcamp):
 	* Section 5, 6 and 7 2/8;
+
+# Day 63:
+* [Linux Administration Bootcamp: Go from Beginner to Advanced](https://www.udemy.com/course/linux-administration-bootcamp/):
+	* Section 9;
+* [Advent of Code](https://adventofcode.com/2020/day/3):
+	* Day 3 - part 1;
