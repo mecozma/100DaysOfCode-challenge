@@ -36,9 +36,12 @@ slopes_file = 'input.txt'
 with open(slopes_file, 'r') as f:
     input_data = [line.strip() for line in f]
 
+# The slope used by the elf.
+slope = [3, 1]
+
 
 # Traverse slope.
-def traverse_slope(data):
+def part_1(data):
     slope_width = len(data[0])
     slope_height = len(data)
     jump = 0
@@ -52,4 +55,35 @@ def traverse_slope(data):
     return trees
 
 
-print(f'Nr. trees: {traverse_slope(input_data)}')
+print(f'Nr. trees Part 1: {part_1(input_data)}')
+
+# Part two.
+
+# A collection of the slopes to iterate over.
+slopes = [[1, 1], [3, 1], [5, 1], [7, 1], [1, 2]]
+
+
+def part_two(data, slopes):
+    trees_product = 1
+
+    def traverse_slopes(slopes):
+        slope_width = len(data[0])
+        slope_height = len(data)
+        jump = 0
+        tree = '#'
+        trees = 0
+        right = slopes[0]
+        down = slopes[1]
+        for line in range(slope_height):
+            if line % down != 0:
+                continue
+            if data[line][jump] == tree:
+                trees += 1
+            jump = (jump + right) % slope_width
+        return trees
+    for slope in slopes:
+        trees_product *= traverse_slopes(slope)
+    return trees_product
+
+
+print(f'Nr. trees Part 2: {part_two(input_data, slopes)}')
