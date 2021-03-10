@@ -331,7 +331,12 @@
 	* Day 3 - part 1;
 
 # Day 64:
-	* Advent of Code Day 3 Part 2;
-	* [Computer Networking](https://www.youtube.com/watch?v=ueVnSz_lXEs&list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO);
-	* [Best 40 Help Desk and Desktop Support Interview Questions and Answers](https://www.youtube.com/watch?v=YxQD_7eIBas&ab_channel=SkillsBuildTraining);
-	* [TOP 70 TECH SUPPORT Interview Questions & Answers, Help Desk, Desktop Support, Net Admin, Sys Admin.](https://www.youtube.com/watch?v=UE4MomFaUqI&ab_channel=cobuman);
+* Advent of Code Day 3 Part 2;
+* [Computer Networking](https://www.youtube.com/watch?v=ueVnSz_lXEs&list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO);
+* [Best 40 Help Desk and Desktop Support Interview Questions and Answers](https://www.youtube.com/watch?v=YxQD_7eIBas&ab_channel=SkillsBuildTraining);
+* [TOP 70 TECH SUPPORT Interview Questions & Answers, Help Desk, Desktop Support, Net Admin, Sys Admin.](https://www.youtube.com/watch?v=UE4MomFaUqI&ab_channel=cobuman);
+
+# Day 65:
+* Advent of Code Day 4 Part 1;
+* Read these articles:
+	* [How to Use Python Lambda Functions](https://realpython.com/python-lambda/)
