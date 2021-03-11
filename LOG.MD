@@ -340,3 +340,6 @@
 * Advent of Code Day 4 Part 1;
 * Read these articles:
 	* [How to Use Python Lambda Functions](https://realpython.com/python-lambda/)
+
+# Day 66:
+* Golang - some work related tasks and installed Go on my machine.
