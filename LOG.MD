@@ -342,6 +342,9 @@
 	* [How to Use Python Lambda Functions](https://realpython.com/python-lambda/)
 
 # Day 66:
+* Golang - some work related tasks and installed Go on my machine.
+
+# Day 67:
 * [The Complete SQL Bootcamp 2021: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/):
 	* Section 1 - Course introduction;
 	* Section 2 - Statement fundamentals:
