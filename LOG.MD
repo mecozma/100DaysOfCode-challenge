@@ -340,3 +340,18 @@
 * Advent of Code Day 4 Part 1;
 * Read these articles:
 	* [How to Use Python Lambda Functions](https://realpython.com/python-lambda/)
+
+# Day 66:
+* [The Complete SQL Bootcamp 2021: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/):
+	* Section 1 - Course introduction;
+	* Section 2 - Statement fundamentals:
+		* SELECT;
+		* SELECT DISTINCT;
+		* COUNT;
+		* SELECT WHERE;
+		* ORDER BY;
+		* LIMIT;
+		* BETWEEN;
+		* IN;
+		* LIKE and ILIKE;
+
