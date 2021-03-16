@@ -358,3 +358,9 @@
 		* IN;
 		* LIKE and ILIKE;
 
+# Day 68:
+* [The Complete SQL Bootcamp 2021: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/):
+	* Section 3:
+		* Aggregation functions;
+		* GROUP BY;
+		* HAVING;
