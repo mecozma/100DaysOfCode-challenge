@@ -369,3 +369,12 @@
 * [The Complete SQL Bootcamp 2021: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/):
 	* Section 4 - Assessment Test 1;
 	* Section 5 - Joins;
+
+# Day 70:
+* [The Complete SQL Bootcamp 2021: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/):
+	* Section 6 - Advanced SQL commands:
+		* EXTRACT;
+		* TIMESTAMP;
+		* Mathematical functions and operatons;
+		* SubQuery;
+		* Self-Join;
