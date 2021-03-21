@@ -378,3 +378,9 @@
 		* Mathematical functions and operatons;
 		* SubQuery;
 		* Self-Join;
+
+# Day 71:
+* [The Complete SQL Bootcamp 2021: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/):
+	* Section 7:
+		* Assesment Test 2;
+
