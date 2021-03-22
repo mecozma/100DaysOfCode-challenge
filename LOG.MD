@@ -384,3 +384,13 @@
 	* Section 7:
 		* Assesment Test 2;
 
+# Day 72:
+* [The Complete SQL Bootcamp 2021: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/):
+	* Section 8:
+		* Data types;
+		* Primary and Foreign Keys;
+		* Constraints;
+* [Linux Administration Bootcamp: Go from Beginner to Advanced](https://www.udemy.com/course/linux-administration-bootcamp/):
+	* Section 10 - Advanced Linux Permissions;
+	* Section 11 - Shell Scripting;
+	* Section 12 - Advanced Command Line Skills;
