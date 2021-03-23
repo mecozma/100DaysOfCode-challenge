@@ -394,3 +394,14 @@
 	* Section 10 - Advanced Linux Permissions;
 	* Section 11 - Shell Scripting;
 	* Section 12 - Advanced Command Line Skills;
+
+# Day 73:
+* [The Complete SQL Bootcamp 2021: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/):
+	* Section 8:
+		* Create table;
+		* Insert;
+		* Update;
+		* Delete;
+		* Alter;
+		* Drop;
+		* Check Constraints;
