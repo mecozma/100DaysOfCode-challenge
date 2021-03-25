@@ -409,5 +409,11 @@
 # Day 74:
 * (A Tour of Go:)[https://tour.golang.org/]:
 	* Basics:
-		* Packages, variables and function.
+		* Packages, variables and functions.
 		* Flow control statements: for, if, else, switch and defer.
+
+# Day 75:
+* (A Tour of Go:)[https://tour.golang.org/]:
+	* Basics:
+		* More types: structs, slices and maps.
+
