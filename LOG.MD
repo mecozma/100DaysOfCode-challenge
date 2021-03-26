@@ -407,13 +407,21 @@
 		* Check Constraints.
 
 # Day 74:
-* (A Tour of Go:)[https://tour.golang.org/]:
+* [A Tour of Go:](https://tour.golang.org/):
 	* Basics:
 		* Packages, variables and functions.
 		* Flow control statements: for, if, else, switch and defer.
 
 # Day 75:
-* (A Tour of Go:)[https://tour.golang.org/]:
+* [A Tour of Go:](https://tour.golang.org/):
 	* Basics:
 		* More types: structs, slices and maps.
 
+# Day 76:
+* [Go Bootcamp: Master Golang with 1000+ Exercises and Projects](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/):
+	* Types.
+	* Type exercises.
+* [Linux Administration Bootcamp: Go from Beginner to Advanced](https://www.udemy.com/course/linux-administration-bootcamp/):
+	* Section 7 - LVM - The Logical Volume Manager.
+	* Section 8 - User Management.
+	* Course completed!
