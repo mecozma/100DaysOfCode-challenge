@@ -425,3 +425,9 @@
 	* Section 7 - LVM - The Logical Volume Manager.
 	* Section 8 - User Management.
 	* Course completed!
+
+# Day 78:
+* [Go Bootcamp: Master Golang with 1000+ Exercises and Projects](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/):
+	* Constants.
+	* Constants exercises.
+
