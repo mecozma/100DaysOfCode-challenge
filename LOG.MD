@@ -444,3 +444,9 @@
 # Day 81:
 * [Go Bootcamp: Master Golang with 1000+ Exercises and Projects](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/):
 	* Error handling exercises.
+
+# Day 82:
+* [Go Bootcamp: Master Golang with 1000+ Exercises and Projects](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/):
+	* Switch statement.
+	* Loops
+		* Loops exercises #1.
