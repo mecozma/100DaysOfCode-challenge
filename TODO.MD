@@ -18,3 +18,6 @@
 # Angular Recipes App:
 * [ ] Implement a hamburger menu. Lecture 50.
 * [ ] Add some spacing between the buttons on the shopping-edit.component.html;
+
+# Go Bootcamp:
+* [ ] Section 5 - Labeled Statement Exercises
