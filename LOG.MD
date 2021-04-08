@@ -463,3 +463,7 @@
 * [Go Bootcamp: Master Golang with 1000+ Exercises and Projects](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/):
 	* Section 5: Projects for beginners 12/13.
 
+# Day 86:
+* [Go Bootcamp: Master Golang with 1000+ Exercises and Projects](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/):
+	* Section 5: Projects for beginners 13/13.
+	* Section 6: Arrays and Memory Layout.

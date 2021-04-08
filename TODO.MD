@@ -20,4 +20,4 @@
 * [ ] Add some spacing between the buttons on the shopping-edit.component.html;
 
 # Go Bootcamp:
-* [ ] Section 5 - Labeled Statement Exercises
+* [x] Section 5 - Labeled Statement Exercises
