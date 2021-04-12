@@ -21,3 +21,7 @@
 
 # Go Bootcamp:
 * [x] Section 5 - Labeled Statement Exercises
+
+
+# Go Bootcamp:
+* [ ] Section 5 - Finish Arrays Exercises 1
