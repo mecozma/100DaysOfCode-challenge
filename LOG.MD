@@ -471,3 +471,8 @@
 # Day 87:
 * [Go Bootcamp: Master Golang with 1000+ Exercises and Projects](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/):
 	* Section 6: Arrays and Memory Layout 12/19.
+
+# Day 88:
+* [Go Bootcamp: Master Golang with 1000+ Exercises and Projects](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/):
+	* Section 6: Arrays and Memory Layout 18/19.
+		* Need to solve the last two challenges.

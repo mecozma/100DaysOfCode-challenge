@@ -24,4 +24,6 @@
 
 
 # Go Bootcamp:
-* [ ] Section 5 - Finish Arrays Exercises 1
+* [x] Section 6 - Finish Arrays Exercises 1
+* [ ] Section 6 - Finish Arrays Exercises 2
+
