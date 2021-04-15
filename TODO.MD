@@ -25,5 +25,6 @@
 
 # Go Bootcamp:
 * [x] Section 6 - Finish Arrays Exercises 1
-* [ ] Section 6 - Finish Arrays Exercises 2
+* [x] Section 6 - Finish Arrays Exercises 2
+* [ ] Section 7 - Complete Retro Clock Exercises
 
