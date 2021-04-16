@@ -480,3 +480,9 @@
 # Day 89:
 * [Go Bootcamp: Master Golang with 1000+ Exercises and Projects](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/):
 	* Section 7: Retro Clock 6/7
+
+# Day 90:
+* [Go Bootcamp: Master Golang with 1000+ Exercises and Projects](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/):
+	* Section 7: Retro Clock 7/7
+	* Section 8: 7/34
+
