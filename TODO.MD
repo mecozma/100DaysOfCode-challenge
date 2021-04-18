@@ -30,3 +30,7 @@
 	* [ ] Ticker exercise.
 
 * [ ] Section 8 - Complete the exercises.
+	* [ ] Append exercises:
+		* Housing Prices.
+		* Housing Prices and Averages.
+
