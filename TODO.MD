@@ -29,8 +29,8 @@
 * [ ] Section 7 - Complete Retro Clock Exercises.
 	* [ ] Ticker exercise.
 
-* [ ] Section 8 - Complete the exercises.
-	* [ ] Append exercises:
+* [x] Section 8 - Complete the exercises.
+	* [x] Append exercises:
 		* Housing Prices.
 		* Housing Prices and Averages.
 

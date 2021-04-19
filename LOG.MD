@@ -492,3 +492,6 @@
 * [How to start, stop, and restart services in Linux](https://www.techrepublic.com/article/how-to-start-stop-and-restart-services-in-linux/).
 * [How to Install and Use dig and nslookup Commands in Linux](https://www.tecmint.com/install-dig-and-nslookup-in-linux/).
 
+# Day 92: 
+* [Go Bootcamp: Master Golang with 1000+ Exercises and Projects](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/):
+	* Finished the Append Exercises.	
