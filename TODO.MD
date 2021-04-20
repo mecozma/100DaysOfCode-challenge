@@ -33,4 +33,7 @@
 	* [x] Append exercises:
 		* Housing Prices.
 		* Housing Prices and Averages.
+	* [ ] Slicing exercises:
+		* Slicing the Housing Prices
+
 
