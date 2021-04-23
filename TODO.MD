@@ -33,7 +33,11 @@
 	* [x] Append exercises:
 		* Housing Prices.
 		* Housing Prices and Averages.
-	* [ ] Slicing exercises:
-		* Slicing the Housing Prices
+	* [x] Slicing exercises:
+		* Slicing the Housing Prices.
+	* [ ] Slice internal exercises:
+		* Observe the length and capacity.
+		* Observe the capacity growth.
+		* Correct the lyric.
 
 
