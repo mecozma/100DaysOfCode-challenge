@@ -504,3 +504,7 @@
 * [Go Bootcamp: Master Golang with 1000+ Exercises and Projects](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/):
 	* Slice internals.
 	
+# Day 95:
+* [Go Bootcamp: Master Golang with 1000+ Exercises and Projects](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/):
+	* Some of the Advanced Slice OPS Exercises
+	* Section 6 completed + exercises.

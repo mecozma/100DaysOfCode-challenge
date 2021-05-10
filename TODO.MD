@@ -35,9 +35,14 @@
 		* Housing Prices and Averages.
 	* [x] Slicing exercises:
 		* Slicing the Housing Prices.
-	* [ ] Slice internal exercises:
+	* [x] Slice internal exercises:
 		* Observe the length and capacity.
 		* Observe the capacity growth.
 		* Correct the lyric.
+	* [ ] Advanced Slice Ops Exercises.
+		* Limit the backing array sharing.
+		* Fix the memory leak.
+		* Add newlines to the lyric sentences.
+		* Print Daily Requests.
 
 
